@@ -1,0 +1,17 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.opendb
+
+# Build folders
+bin/
+obj/
+
+# Executables
+*.exe
+*.dll
+*.pdb

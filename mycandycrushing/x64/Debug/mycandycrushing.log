@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\HP\Desktop\visualstudio\mycandycrushing\mycandycrushing\help.h(36,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\HP\Desktop\visualstudio\mycandycrushing\mycandycrushing\help.h(42,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\HP\Desktop\visualstudio\mycandycrushing\mycandycrushing\help.h(50,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\HP\Desktop\visualstudio\mycandycrushing\mycandycrushing\help.h(57,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\HP\Desktop\visualstudio\mycandycrushing\mycandycrushing\Source.cpp(362,34): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+  mycandycrushing.vcxproj -> C:\Users\HP\Desktop\visualstudio\mycandycrushing\x64\Debug\mycandycrushing.exe
